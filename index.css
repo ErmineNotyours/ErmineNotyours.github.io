@@ -1,0 +1,66 @@
+html {
+  height: 100%;
+}
+body {
+   height: 100%;
+   background-color: #002244 ;
+   background: url(seattleseahawks.jpg);
+}
+header {
+        margin: 0 5em 0 5em;
+        background-color: #69BE28 ;
+        text-align: center;
+        padding: 5px;
+        font-size: 45;
+        display: block;
+        border: 20px solid #A5ACAF ;
+        border-radius: 10px;
+        background: #69BE28 ;
+    }
+    nav {
+      margin: 30 3em 30 3em;
+       background-color: #69BE28 ;
+      text-align: center;
+      padding: 5px;
+      font-size: 35;
+      display: block;
+      border: 20px solid #A5ACAF ;
+      border-radius: 10px;
+      background: #69BE28 ;
+    }
+    nav ul {
+      text-align: left;
+    }
+    nav li {
+        }
+        nav li a {
+                display:
+                height:
+                padding:
+                vertical-align:
+            }
+            a {
+                color:
+            }
+            section {
+                width:
+                display:
+                float:
+            }
+            aside {
+    width: 17%;
+    display: inline-block;
+    background-color:;
+    padding:;
+    min-height: 100%;
+}
+aside ul {
+    list-style-type: none;
+}
+footer {
+    width: 790px;
+    background-color:;
+    color:;
+    clear: both;
+    display: block;
+}
